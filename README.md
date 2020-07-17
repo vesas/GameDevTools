@@ -130,6 +130,22 @@ Engine for 2D games.
 - Games made with: 
 - Languages: Python
 
+### Pyglet
+
+[http://pyglet.org/](http://pyglet.org/ "Pyglet")
+
+- Platforms:  Linux, Windows, Mac OS X
+- Games made with: 
+- Languages: Python
+
+### Arcade
+
+[https://arcade.academy](https://arcade.academy "Arcade")
+
+- Platforms:  Linux, Windows, Mac OS X
+- Games made with: 
+- Languages: Python
+
 ### LÖVE
 
 [http://love2d.org](http://love2d.org "LÖVE")

@@ -160,7 +160,7 @@ Engine for 2D games.
 
 - Platforms: Windows, Mac OS, Linux, Android, iOS
 - Games made with: 
-- Languages: Lua
+- Languages: C#
 
 ### Bullet
 

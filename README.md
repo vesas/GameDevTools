@@ -25,7 +25,7 @@ A curated list of useful tools for game development.
 - Platforms: Windows, Mac OS X, Ubuntu, Android, iOS, PlayStation 4, Xbox, HTML5
 - Games made with: Spelunky, Nuclear Throne, Gunpoint, Risk of rain
 
-### GoDot Engine
+### Godot Engine
 
 [https://godotengine.org/](https://godotengine.org/ "Godot")
 

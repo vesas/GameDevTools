@@ -221,7 +221,7 @@ Physics library
 
 ### Affinity Designer
 
-[https://affinity.serif.com/en-us/designer/] (https://affinity.serif.com/en-us/designer/ "Affinity Designer")
+[https://affinity.serif.com/en-us/designer/](https://affinity.serif.com/en-us/designer/ "Affinity Designer")
 
 ### 3D
 

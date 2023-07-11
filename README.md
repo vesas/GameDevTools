@@ -219,6 +219,10 @@ Physics library
 
 [https://www.synfig.org/](https://www.synfig.org/ "Synfig")
 
+### Affinity Designer
+
+[https://affinity.serif.com/en-us/designer/] (https://affinity.serif.com/en-us/designer/ "Affinity Designer")
+
 ### 3D
 
 ### Blender
